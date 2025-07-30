@@ -1,0 +1,863 @@
+Transcripts from 3Blue1Brown
+==================================================
+
+FAILED TO GET TRANSCRIPT: But how do AI images/videos actually work? | Guest video by @WelchLabsVideo
+URL: https://youtube.com/watch?v=iv-5mZ_9CPY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Summer of Math Exposition #4 | Teachers, I'd love to hear from you
+URL: https://youtube.com/watch?v=3foYyPDp0Ho
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Where my explanation of Grover’s algorithm failed
+URL: https://youtube.com/watch?v=Dlsa9EBKDGI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is quantum computing?  (Grover's Algorithm)
+URL: https://youtube.com/watch?v=RQWpF2Gb-gU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Testing your intuition for quantum computing
+URL: https://youtube.com/watch?v=XX8mjBXBqz8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How to measure nearby galaxies
+URL: https://youtube.com/watch?v=aQwEJKWATlE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Measuring the distance to Venus without radar
+URL: https://youtube.com/watch?v=aw-8BhCilj0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Measuring the speed of light using Jupiter's moons
+URL: https://youtube.com/watch?v=M6LUPYsjods
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The tragic tale of Guillaume Le Gentil
+URL: https://youtube.com/watch?v=mHya9J9pkq4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Zooming out by powers of 10
+URL: https://youtube.com/watch?v=C8baNzpnZ7o
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why colliding blocks compute pi
+URL: https://youtube.com/watch?v=6dTyOl1fmDo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: When being beautifully wrong leads to discovery
+URL: https://youtube.com/watch?v=TZAC0WFemvE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why the ancient Greeks rejected heliocentrism
+URL: https://youtube.com/watch?v=YP1mMXRCnaI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How to estimate the distance to the sun
+URL: https://youtube.com/watch?v=gzbFNnTCkqQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How Aristarchus deduced the distance to the moon
+URL: https://youtube.com/watch?v=drmphB3rdHY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Terence Tao continuing history’s cleverest cosmological measurements
+URL: https://youtube.com/watch?v=hFMaT9oRbs4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How Earth's size was computed by Eratosthenes
+URL: https://youtube.com/watch?v=9s0srZneJ38
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Terence Tao on the Cosmic Distance Ladder
+URL: https://youtube.com/watch?v=YdOXS_9_P4U
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Measuring the earth with Terence Tao
+URL: https://youtube.com/watch?v=uT4-WVa-YfU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The topology of two-note chords
+URL: https://youtube.com/watch?v=K-pGGb0f3tc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The barber pole optical mystery
+URL: https://youtube.com/watch?v=0TdBP9m4R74
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Monge's Theorem
+URL: https://youtube.com/watch?v=zxOK2vKVfQM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Thinking through double slits
+URL: https://youtube.com/watch?v=DgMhayP2NPU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The inscribed square problem
+URL: https://youtube.com/watch?v=LuVUnd0C07U
+------------------------------
+
+FAILED TO GET TRANSCRIPT: This open problem taught me what topology is
+URL: https://youtube.com/watch?v=IQqtsm-bBRU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The meaning within the Mandelbrot set
+URL: https://youtube.com/watch?v=y9BK--OxZpY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The scale of training LLMs
+URL: https://youtube.com/watch?v=qSn8dVI9V5I
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Large Language Models explained briefly
+URL: https://youtube.com/watch?v=LPZh9BOjkQs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: This puzzle is trickier than it seems
+URL: https://youtube.com/watch?v=nAT-MCsJeik
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Sphere surface area proof sketch
+URL: https://youtube.com/watch?v=EPDZTLavmcg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Newton’s Fractal is beautiful
+URL: https://youtube.com/watch?v=LOulCFdVOGY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The Triangle Of Power
+URL: https://youtube.com/watch?v=JNVZK4ofW-Y
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The twirling tiles puzzle
+URL: https://youtube.com/watch?v=0W243LGSJFU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A bizarre probability fact
+URL: https://youtube.com/watch?v=Pny70rNPJLk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Five puzzles for thinking outside the box
+URL: https://youtube.com/watch?v=piJkuavhV50
+------------------------------
+
+FAILED TO GET TRANSCRIPT: LLMs are next-word predictors
+URL: https://youtube.com/watch?v=KHEtJUlpqcg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How I animate 3Blue1Brown | A Manim demo with Ben Sparks
+URL: https://youtube.com/watch?v=rbu7Zu5X1zI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Hologram preview
+URL: https://youtube.com/watch?v=W3-kpRz-e1Q
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Holograms are wild (full video linked above)
+URL: https://youtube.com/watch?v=DnjATyPuFFk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How are holograms possible?
+URL: https://youtube.com/watch?v=EmKQsSDlaa4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How might LLMs store facts | Deep Learning Chapter 7
+URL: https://youtube.com/watch?v=9-Jl0dxWQs8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: In the vector space of all advice...
+URL: https://youtube.com/watch?v=rjVY7HXN6qA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What "Follow Your Dreams" Misses | Harvey Mudd Commencement Speech 2024
+URL: https://youtube.com/watch?v=W3I3kAg2J7w
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Temperature in LLMs
+URL: https://youtube.com/watch?v=XsLK3tPy9SI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How word vectors encode meaning
+URL: https://youtube.com/watch?v=FJtFZwbvkI4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Attention in transformers, step-by-step | Deep Learning Chapter 6
+URL: https://youtube.com/watch?v=eMlx5fFNoYc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Transformers, the tech behind LLMs | Deep Learning Chapter 5
+URL: https://youtube.com/watch?v=wjZofJX0v4M
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Simulating the electric field and a moving charge
+URL: https://youtube.com/watch?v=81QNyDnYtg0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A challenging puzzle about subset sums
+URL: https://youtube.com/watch?v=-ikRg-OfFHc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Ellipses have multiple definitions, how are these the same?
+URL: https://youtube.com/watch?v=-3jPW_TGATI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Three levels of understanding Bayes' theorem
+URL: https://youtube.com/watch?v=w-CXIqIjfRI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The medical test paradox (well "paradox")
+URL: https://youtube.com/watch?v=xIMlJUwB1m8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Positioned as the hardest question on a Putnam exam  (#6, 1992)
+URL: https://youtube.com/watch?v=IstyL9vnybg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why does light slowing imply a bend? (Beyond the tank/car analogy)
+URL: https://youtube.com/watch?v=DWnb2UUlqd0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The cube shadow puzzle
+URL: https://youtube.com/watch?v=U3O1nzSojnc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What does it mean that light "slows down" in glass?
+URL: https://youtube.com/watch?v=XIW-2ykgVPI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why do we call them "scalars"?
+URL: https://youtube.com/watch?v=vItzPPpNXEs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A beautiful international math olympiad problem
+URL: https://youtube.com/watch?v=teYL0Er4c3g
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Definition of a "bit", in information theory
+URL: https://youtube.com/watch?v=BTryyW7gqg4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The Newton art puzzle
+URL: https://youtube.com/watch?v=kpG7I2MOcnI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What is a group?
+URL: https://youtube.com/watch?v=3KbiJ-z0j44
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How to derive a formula for π
+URL: https://youtube.com/watch?v=R1e7aHBKLnM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The limit of limiting arguments
+URL: https://youtube.com/watch?v=tjIOqIr80ns
+------------------------------
+
+FAILED TO GET TRANSCRIPT: For anyone who might not know how links in shorts work
+URL: https://youtube.com/watch?v=W1gW1dHRsOw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Infinite Lighthouses and π
+URL: https://youtube.com/watch?v=p9i3cYMQtBY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Can you even imagine 2^256?
+URL: https://youtube.com/watch?v=X4jpqCu-wlA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Order from chaos
+URL: https://youtube.com/watch?v=GOSezO0CHss
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A short on shorts
+URL: https://youtube.com/watch?v=TaopSi3Ucfc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A pretty way to add weighted dice
+URL: https://youtube.com/watch?v=BIbHGfdjc_g
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A simple image convolution
+URL: https://youtube.com/watch?v=4xWpQe3G9qI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: These integrals all equal π, until...
+URL: https://youtube.com/watch?v=VS9yOhwtVDY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The split necklace puzzle (with a surprise topological solution)
+URL: https://youtube.com/watch?v=Cm-zmm0nANo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Error correction is incredible
+URL: https://youtube.com/watch?v=yZMw2rOKYwE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The chessboard and coins puzzle
+URL: https://youtube.com/watch?v=NQFIU5Exjuo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Prime spirals
+URL: https://youtube.com/watch?v=h2V3r7oBeMI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The barber pole effect
+URL: https://youtube.com/watch?v=31xm81m0iYs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Fourier series
+URL: https://youtube.com/watch?v=nXIHYB0Gp70
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Seeing with sound
+URL: https://youtube.com/watch?v=1tLvj_HSjPk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How prisms work (full video linked above)
+URL: https://youtube.com/watch?v=GSIuXqgPsnY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: I'm still astounded this is true
+URL: https://youtube.com/watch?v=P11ykXwx4-k
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Don't let it fool you!
+URL: https://youtube.com/watch?v=VFbyGEZLMZw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Answering viewer questions about refraction
+URL: https://youtube.com/watch?v=Cz4Q4QOuoo8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But why would light "slow down"? | Visualizing Feynman's lecture on the refractive index
+URL: https://youtube.com/watch?v=KTzGBJPuJwM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: 25 Math explainers you may enjoy | SoME3 results
+URL: https://youtube.com/watch?v=6a1fLEToyvU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How wiggling charges give rise to light
+URL: https://youtube.com/watch?v=aXRTczANuIs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: This tests your understanding of light | The barber pole effect
+URL: https://youtube.com/watch?v=QCX62YJCmGk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A pretty reason why Gaussian + Gaussian = Gaussian
+URL: https://youtube.com/watch?v=d_qvLDhkg00
+------------------------------
+
+FAILED TO GET TRANSCRIPT: This pattern breaks, but for a good reason | Moser's circle problem
+URL: https://youtube.com/watch?v=YtkIWDE36qU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How They Fool Ya (live) | Math parody of Hallelujah
+URL: https://youtube.com/watch?v=NOCsdhzo6Jg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Convolutions | Why X+Y in probability is a beautiful mess
+URL: https://youtube.com/watch?v=IaSGqQa5O-M
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why π is in the normal distribution (beyond integral tricks)
+URL: https://youtube.com/watch?v=cy8r7WSuT1I
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is the Central Limit Theorem?
+URL: https://youtube.com/watch?v=zeJD6dqJ5lo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is a convolution?
+URL: https://youtube.com/watch?v=KuXjwB4LzSA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Researchers thought this was a bug (Borwein integrals)
+URL: https://youtube.com/watch?v=851U557j6HE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What makes a great math explanation? | SoME2 results
+URL: https://youtube.com/watch?v=cDofhN-RJqg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How to lie using visual proofs
+URL: https://youtube.com/watch?v=VYQVlVoWoPY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Olympiad level counting  (Generating functions)
+URL: https://youtube.com/watch?v=bOXCLR3Wric
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Oh, wait, actually the best Wordle opener is not “crane”…
+URL: https://youtube.com/watch?v=fRed0Xmc2Wg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Solving Wordle using information theory
+URL: https://youtube.com/watch?v=v68zYyaEmEA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A tale of two problem solvers | Average cube shadow area
+URL: https://youtube.com/watch?v=ltLUadnCyi0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: 2021 Summer of Math Exposition results
+URL: https://youtube.com/watch?v=F3Qixy-r_rQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Beyond the Mandelbrot set, an intro to holomorphic dynamics
+URL: https://youtube.com/watch?v=LqbZpur38nw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Newton’s fractal (which Newton knew nothing about)
+URL: https://youtube.com/watch?v=-RdOwhmqP5s
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Make math videos! | Summer of Math Exposition announcement
+URL: https://youtube.com/watch?v=ojjzXyQCzso
+------------------------------
+
+FAILED TO GET TRANSCRIPT: A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra
+URL: https://youtube.com/watch?v=e50Bj7jn9IQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How (and why) to raise e to the power of a matrix | DE6
+URL: https://youtube.com/watch?v=O85OWBJ2ayo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The medical test paradox, and redesigning Bayes' rule
+URL: https://youtube.com/watch?v=lG4VkPoG3ko
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Hamming codes part 2: The one-line implementation
+URL: https://youtube.com/watch?v=b3NxrZOu_CE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what are Hamming codes? The origin of error correction
+URL: https://youtube.com/watch?v=X8jsijhllIA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Group theory, abstraction, and the 196,883-dimensional monster
+URL: https://youtube.com/watch?v=mH0oCDa74tE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The impossible chessboard puzzle
+URL: https://youtube.com/watch?v=wTJI_WuZSwE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Tips to be a better problem solver [Last live lecture] | Ep. 10 Lockdown live math
+URL: https://youtube.com/watch?v=QvuQH4_05LI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Intuition for i to the power i | Ep. 9 Lockdown live math
+URL: https://youtube.com/watch?v=pq9LcwC7CoY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The DP-3T algorithm for contact tracing (with Nicky Case)
+URL: https://youtube.com/watch?v=D__UaR5MQao
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The power tower puzzle | Ep. 8 Lockdown live math
+URL: https://youtube.com/watch?v=elQVZLLiod4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What makes the natural log "natural"? | Ep. 7 Lockdown live math
+URL: https://youtube.com/watch?v=4PDoT7jtxmw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Logarithm Fundamentals | Ep. 6 Lockdown live math
+URL: https://youtube.com/watch?v=cEvgcoyZvB4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Imaginary interest rates | Ep. 5 Lockdown live math
+URL: https://youtube.com/watch?v=IAEASE5GjdI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What is Euler's formula actually saying? | Ep. 4 Lockdown live math
+URL: https://youtube.com/watch?v=ZxYOEwM6Wbk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Complex number fundamentals | Ep. 3 Lockdown live math
+URL: https://youtube.com/watch?v=5PcpBw5Hbwo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Trigonometry fundamentals | Ep. 2 Lockdown live math
+URL: https://youtube.com/watch?v=yBw67Fb31Cs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The simpler quadratic formula | Ep. 1 Lockdown live math
+URL: https://youtube.com/watch?v=MHXO86wKeDY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Lockdown math announcement
+URL: https://youtube.com/watch?v=ppWPuXsnf1Q
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2
+URL: https://youtube.com/watch?v=ZA4JkHKZM50
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Simulating an epidemic
+URL: https://youtube.com/watch?v=gxAaO2rsdIs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Binomial distributions | Probabilities of probabilities, part 1
+URL: https://youtube.com/watch?v=8idr1WZ1A7Q
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Exponential growth and epidemics
+URL: https://youtube.com/watch?v=Kas0tIxDvrg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The quick proof of Bayes' theorem
+URL: https://youtube.com/watch?v=U_85TaXbeIo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Bayes theorem, the geometry of changing beliefs
+URL: https://youtube.com/watch?v=HZGCoVF3YvM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Q&A with Grant, windy walk edition
+URL: https://youtube.com/watch?v=Agbh95KyWxY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations
+URL: https://youtube.com/watch?v=EK32jo7i5LQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The unexpectedly hard windmill question (2011 IMO, Q2)
+URL: https://youtube.com/watch?v=M64HUIJFTZM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: e^(iπ) in 3.14 minutes, using dynamics | DE5
+URL: https://youtube.com/watch?v=v0YEaeIClKY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Pure Fourier series animation montage
+URL: https://youtube.com/watch?v=-qgreAUpPwM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is a Fourier series?  From heat flow to drawing with circles | DE4
+URL: https://youtube.com/watch?v=r6sGWTCMz2k
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Solving the heat equation | DE3
+URL: https://youtube.com/watch?v=ToIXSwZ1pJU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is a partial differential equation?  | DE2
+URL: https://youtube.com/watch?v=ly4S0oi3Yz8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Differential equations, a tourist's guide | DE1
+URL: https://youtube.com/watch?v=p_di4Zn4wz4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Cramer's rule, explained geometrically | Chapter 12, Essence of linear algebra
+URL: https://youtube.com/watch?v=jBsC34PxzoM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How colliding blocks act like a beam of light...to compute pi.
+URL: https://youtube.com/watch?v=brU5yLm9DZM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The most unexpected answer to a counting puzzle
+URL: https://youtube.com/watch?v=HEfHFsfGXjs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But why is a sphere's surface area four times its shadow?
+URL: https://youtube.com/watch?v=GNcFjFmqEc8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Using topology for discrete problems | The Borsuk-Ulam theorem and stolen necklaces
+URL: https://youtube.com/watch?v=yuVqxCSsE7c
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why 5/3 is a fundamental constant for turbulence
+URL: https://youtube.com/watch?v=_UoTTq651dE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Quaternions and 3d rotation, explained interactively
+URL: https://youtube.com/watch?v=zjMuIxRvygQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Visualizing quaternions (4d numbers) with stereographic projection
+URL: https://youtube.com/watch?v=d4EgbgTm0Bg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Q&A with Grant Sanderson (3blue1brown)
+URL: https://youtube.com/watch?v=Qe6o9j4IjTo
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why slicing a cone gives an ellipse (beautiful proof)
+URL: https://youtube.com/watch?v=pQa_tWZmlGs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Other math channels you'd enjoy
+URL: https://youtube.com/watch?v=VcgJro0sTiM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Divergence and curl:  The language of Maxwell's equations, fluid flow, and more
+URL: https://youtube.com/watch?v=rB83DpBJQsE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The other way to visualize derivatives | Chapter 12, Essence of calculus
+URL: https://youtube.com/watch?v=CfW845LNObM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The Wallis product for pi, proved geometrically
+URL: https://youtube.com/watch?v=8GPy_UMV-08
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Winding numbers and domain coloring
+URL: https://youtube.com/watch?v=b7FxPsqfkOY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How pi was almost 6.283185...
+URL: https://youtube.com/watch?v=bcPTiiiYDs8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why is pi here?  And why is it squared?  A geometric answer to the Basel problem
+URL: https://youtube.com/watch?v=d-o3eB9sfls
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The more general uncertainty principle, regarding Fourier transforms
+URL: https://youtube.com/watch?v=MBnnXbOM5S4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is the Fourier Transform?  A visual introduction.
+URL: https://youtube.com/watch?v=spUNpyF58BY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Why this puzzle is impossible
+URL: https://youtube.com/watch?v=VvCytJvd4H0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Q&A #2 + Net Neutrality Nuance
+URL: https://youtube.com/watch?v=liL66CApESk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The hardest problem on the hardest test
+URL: https://youtube.com/watch?v=OkmNXy7er84
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Backpropagation calculus | Deep Learning Chapter 4
+URL: https://youtube.com/watch?v=tIeHLnjs5U8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Backpropagation, intuitively | Deep Learning Chapter 3
+URL: https://youtube.com/watch?v=Ilg3gGewQ5U
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Gradient descent, how neural networks learn | Deep Learning Chapter 2
+URL: https://youtube.com/watch?v=IHZwWFHWa-w
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is a neural network? | Deep learning chapter 1
+URL: https://youtube.com/watch?v=aircAruvnKk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Some light quantum mechanics (with minutephysics)
+URL: https://youtube.com/watch?v=MzRCDLre1b4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Thinking outside the 10-dimensional box
+URL: https://youtube.com/watch?v=zwAD6dRSVyI
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Hilbert's Curve: Is infinite math useful?
+URL: https://youtube.com/watch?v=3s7h2MHQtxc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How secure is 256 bit security?
+URL: https://youtube.com/watch?v=S9JGmA5_unY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But how does bitcoin actually work?
+URL: https://youtube.com/watch?v=bBC-nXj3Ng4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: All possible pythagorean triples, visualized
+URL: https://youtube.com/watch?v=QJYmyhnaaek
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Pi hiding in prime regularities
+URL: https://youtube.com/watch?v=NaL_Cb42WyY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Taylor series | Chapter 11, Essence of calculus
+URL: https://youtube.com/watch?v=3d6DsjIBzJ4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Higher order derivatives | Chapter 10, Essence of calculus
+URL: https://youtube.com/watch?v=BLkz5LGWihw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What does area have to do with slope? | Chapter 9, Essence of calculus
+URL: https://youtube.com/watch?v=FnJqaIESC2s
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Integration and the fundamental theorem of calculus | Chapter 8, Essence of calculus
+URL: https://youtube.com/watch?v=rfG8ce4nNh0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus
+URL: https://youtube.com/watch?v=kfF40MiS7zA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus
+URL: https://youtube.com/watch?v=qb40J4N1fa4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What's so special about Euler's number e? | Chapter 5, Essence of calculus
+URL: https://youtube.com/watch?v=m2MIpDrF7Es
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Visualizing the chain rule and product rule | Chapter 4, Essence of calculus
+URL: https://youtube.com/watch?v=YG15m2VwSjA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Derivative formulas through geometry | Chapter 3, Essence of calculus
+URL: https://youtube.com/watch?v=S0_qX4VJhMQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The paradox of the derivative | Chapter 2, Essence of calculus
+URL: https://youtube.com/watch?v=9vKqVkMQHKk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The essence of calculus
+URL: https://youtube.com/watch?v=WUvTyaaNkzM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Euler's formula with introductory group theory
+URL: https://youtube.com/watch?v=mvmuCPvRoWQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Fractals are typically not self-similar
+URL: https://youtube.com/watch?v=gB9n2gHsHN4
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Tattoos on Math
+URL: https://youtube.com/watch?v=IxNb1WG_Ido
+------------------------------
+
+FAILED TO GET TRANSCRIPT: But what is the Riemann zeta function? Visualizing analytic continuation
+URL: https://youtube.com/watch?v=sD0NjbwqlYw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Binary, Hanoi, and Sierpinski, part 2
+URL: https://youtube.com/watch?v=bdMfjfT0lKk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Binary, Hanoi and Sierpinski, part 1
+URL: https://youtube.com/watch?v=2SUvWfNJSsM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: 3blue1brown channel trailer
+URL: https://youtube.com/watch?v=R7p-nPg8t_g
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Who cares about topology?   (Old version)
+URL: https://youtube.com/watch?v=AmgkSdhK4K8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Abstract vector spaces | Chapter 16, Essence of linear algebra
+URL: https://youtube.com/watch?v=TgKwz5Ikpc8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra
+URL: https://youtube.com/watch?v=PFDu9oVAE-g
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Change of basis | Chapter 13, Essence of linear algebra
+URL: https://youtube.com/watch?v=P2LTAUO1TdA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Cross products in the light of linear transformations | Chapter 11, Essence of linear algebra
+URL: https://youtube.com/watch?v=BaM7OCEm3G0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Cross products | Chapter 10, Essence of linear algebra
+URL: https://youtube.com/watch?v=eu6i7WJeinw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Dot products and duality | Chapter 9, Essence of linear algebra
+URL: https://youtube.com/watch?v=LyGKycYT2v0
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra
+URL: https://youtube.com/watch?v=v8VSDg_WQlA
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra
+URL: https://youtube.com/watch?v=uQhTuRlWMxw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The determinant | Chapter 6, Essence of linear algebra
+URL: https://youtube.com/watch?v=Ip3X9LOh2dk
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Three-dimensional linear transformations | Chapter 5, Essence of linear algebra
+URL: https://youtube.com/watch?v=rHLEWRxRGiM
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Matrix multiplication as composition | Chapter 4, Essence of linear algebra
+URL: https://youtube.com/watch?v=XkY2DOUCWMU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Linear transformations and matrices | Chapter 3, Essence of linear algebra
+URL: https://youtube.com/watch?v=kYB8IZa5AuE
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra
+URL: https://youtube.com/watch?v=k7RM-ot2NWY
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Vectors | Chapter 1, Essence of linear algebra
+URL: https://youtube.com/watch?v=fNk_zzaMoSs
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Essence of linear algebra preview
+URL: https://youtube.com/watch?v=kjBOesZCoqc
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Triangle of Power
+URL: https://youtube.com/watch?v=sULa9Lc4pck
+------------------------------
+
+FAILED TO GET TRANSCRIPT: The Brachistochrone, with Steven Strogatz
+URL: https://youtube.com/watch?v=Cld0p3a43fU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Snell's law proof using springs
+URL: https://youtube.com/watch?v=Iq1a_KJTWJ8
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Fractal charm: Space filling curves
+URL: https://youtube.com/watch?v=RU0wScIj36o
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Music And Measure Theory
+URL: https://youtube.com/watch?v=cyW5z-M2yzw
+------------------------------
+
+FAILED TO GET TRANSCRIPT: How to count to 1000 on two hands
+URL: https://youtube.com/watch?v=1SMmc9gQmHQ
+------------------------------
+
+FAILED TO GET TRANSCRIPT: What does it feel like to invent math?
+URL: https://youtube.com/watch?v=XFDM1ip5HdU
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Euler's Formula and Graph Duality
+URL: https://youtube.com/watch?v=-9OUyo8NFZg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: Euler's Formula Poem
+URL: https://youtube.com/watch?v=zLzLxVeqdQg
+------------------------------
+
+FAILED TO GET TRANSCRIPT: e to the pi i, a nontraditional take (old version)
+URL: https://youtube.com/watch?v=F_0yfvm0UoU
+------------------------------
+
